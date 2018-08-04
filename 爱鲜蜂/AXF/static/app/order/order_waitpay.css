@@ -1,0 +1,34 @@
+
+header {
+    width: 100%;
+    height: 1.5rem;
+    background: orange;
+    text-align: center;
+    line-height: 1.5rem;
+    font-size: 0.6rem;
+    color: white;
+    margin-bottom: 0.2rem;
+
+}
+
+
+.orders > li {
+    width:100%;
+    height:160px;
+    border:1px solid#ccc;
+    padding: 3px;
+    margin: 10px;
+}
+
+.ordergoods li{
+    width: 100px;
+    height: 100px;
+
+}
+ul li img {
+    width:92px;
+    height:92px;
+
+}
+
+
